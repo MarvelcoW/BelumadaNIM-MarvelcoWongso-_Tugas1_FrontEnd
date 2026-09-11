@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #2c3e50;
+    background-color: #81a719;
     color: white;
     text-align: center;
     padding: 30px;
@@ -18,7 +18,7 @@ header h1 {
 }
 
 nav {
-    background-color: #34495e;
+    background-color: #5a8d21;
     text-align: center;
     padding: 15px;
 }
@@ -44,7 +44,7 @@ article {
 
 article h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #79a306;
     padding-bottom: 5px;
 }
 
@@ -57,7 +57,7 @@ article li {
 }
 
 article a {
-    color: #2980b9;
+    color: #b5e71f;
 }
 
 footer {
